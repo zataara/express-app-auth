@@ -1,2 +1,4 @@
-# Trynance - Backend
-[![wakatime](https://wakatime.com/badge/user/99e71179-209a-409a-b8bc-6612891d9ce9/project/c6b15102-65bd-4ed2-87a1-9a74bb75dc3e.svg)](https://wakatime.com/badge/user/99e71179-209a-409a-b8bc-6612891d9ce9/project/c6b15102-65bd-4ed2-87a1-9a74bb75dc3e) ![GitHub last commit](https://img.shields.io/github/last-commit/zataara/trynance-backend)
+# Express App with Auth
+
+- A simple backend app for easy cloning with User authentication features
+
